@@ -1,0 +1,2 @@
+C:\Users\leonf\Desktop\vsCode\c\sudoku_\soduku_solver\Debug\soduku_solver.exe
+C:\Users\leonf\Desktop\vsCode\c\sudoku_\soduku_solver\Debug\soduku_solver.pdb
